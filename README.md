@@ -1,5 +1,7 @@
 # docker-alpine-wapiti
 
+**DEPRECATED, please use the [official Dockerfile](https://github.com/wapiti-scanner/wapiti/blob/master/Dockerfile).**
+
 An Alpine-based image to run wapiti web application vulnerability scanner
 
 ## Usage
